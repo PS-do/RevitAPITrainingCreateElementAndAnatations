@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type-="Command">
+		<Assembly>"C:\Program Files\RevitAPITrainig\RevitAPITrainingCreateElementAndAnatations.dll"</Assembly>		
+		<AddInId>98DD5FD6-BCC2-4CCE-9FEA-ABCB6FF995C9</AddInId>
+		<FullClassName>RevitAPITrainingCreateElementAndAnatations.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>RevitAPITrainingCreateElementAndAnatations</Text>
+	</AddIn>	
+</RevitAddIns>
